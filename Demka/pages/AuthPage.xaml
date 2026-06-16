@@ -1,0 +1,20 @@
+﻿<Page x:Class="Demka.pages.AuthPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Demka.pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AuthPage">
+
+    <Grid Background="White">
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Авторизация" FontSize="32" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="198,131,0,0" TextWrapping="Wrap" Text="Логин: " VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="198,199,0,0" TextWrapping="Wrap" Text="Пароль: " VerticalAlignment="Top"/>
+        <TextBox Name="loginBox" HorizontalAlignment="Left" Margin="391,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="passBox" HorizontalAlignment="Left" Margin="391,197,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="btnAuth" Click="btnAuth_Click"  Content="войти в ойти" HorizontalAlignment="Left" Margin="198,313,0,0" VerticalAlignment="Top" Height="29" Width="154"/>
+        <Button Name="btnAuthAsGuest" Click="btnAuthAsGuest_Click"  Content="войти в ойти как гость" HorizontalAlignment="Left" Margin="489,313,0,0" VerticalAlignment="Top" Height="29" Width="154"/>
+    </Grid>
+</Page>

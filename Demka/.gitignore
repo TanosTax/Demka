@@ -1,0 +1,18 @@
+﻿# Visual Studio
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+packages/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
