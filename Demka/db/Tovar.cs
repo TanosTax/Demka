@@ -19,7 +19,7 @@ namespace Demka.db
         {
             this.OrderDetail = new HashSet<OrderDetail>();
         }
-
+        
         public string BackgroundColor
         {
             get

@@ -66,6 +66,18 @@ namespace Demka.pages
             {
                 tovarLV.ItemsSource = tovar.OrderByDescending(i => i.price).ToList();
             }
+            else if (selectedtext == "DiscountLess11")
+            {
+                tovarLV.ItemsSource = tovar.Where(i => i.discount < 11).ToList();
+            }
+            else if (selectedtext == "DiscountIn11and15")
+            {
+                tovarLV.ItemsSource = tovar.Where(i => i.discount > 11 && i.discount < 15).ToList();
+            }
+            else if (selectedtext == "Discountmorethan15")
+            {
+                tovarLV.ItemsSource = tovar.Where(i => i.discount > 15).ToList();
+            }
             else
             {
                 tovarLV.ItemsSource = tovar;
