@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aircomp\\source\\repos\\Demka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|c:\\users\\aircomp\\source\\repos\\demka\\demka\\db\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|solutionrelative:demka\\db\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|c:\\users\\aircomp\\source\\repos\\demka\\demka\\pages\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|solutionrelative:demka\\pages\\productlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|c:\\users\\aircomp\\source\\repos\\demka\\demka\\pages\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|solutionrelative:demka\\pages\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|c:\\users\\aircomp\\source\\repos\\demka\\demka\\pages\\productlistmanagerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|solutionrelative:demka\\pages\\productlistmanagerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|c:\\users\\aircomp\\source\\repos\\demka\\demka\\pages\\productlistmanagerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26EFB5D8-6902-4763-9977-54F5074CC344}|Demka\\Demka.csproj|solutionrelative:demka\\pages\\productlistmanagerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\db\\Tovar.cs",
+              "RelativeDocumentMoniker": "Demka\\db\\Tovar.cs",
+              "ToolTip": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\db\\Tovar.cs*",
+              "RelativeToolTip": "Demka\\db\\Tovar.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T20:23:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demka\\pages\\ProductListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListPage.xaml.cs",
+              "RelativeToolTip": "Demka\\pages\\ProductListPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:59:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListPage.xaml",
+              "RelativeDocumentMoniker": "Demka\\pages\\ProductListPage.xaml",
+              "ToolTip": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListPage.xaml",
+              "RelativeToolTip": "Demka\\pages\\ProductListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T19:59:39.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductListManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Demka\\pages\\ProductListManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListManagerPage.xaml.cs",
+              "RelativeToolTip": "Demka\\pages\\ProductListManagerPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:58:22.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductListManagerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListManagerPage.xaml",
+              "RelativeDocumentMoniker": "Demka\\pages\\ProductListManagerPage.xaml",
+              "ToolTip": "C:\\Users\\aircomp\\source\\repos\\Demka\\Demka\\pages\\ProductListManagerPage.xaml",
+              "RelativeToolTip": "Demka\\pages\\ProductListManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-16T19:58:20.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

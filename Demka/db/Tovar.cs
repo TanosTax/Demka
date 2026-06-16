@@ -19,7 +19,15 @@ namespace Demka.db
         {
             this.OrderDetail = new HashSet<OrderDetail>();
         }
-    
+
+        public string BackgroundColor
+        {
+            get
+            {
+                return (discount.HasValue && discount.Value > 12) ? "#F4A460" : "White";
+            }
+        }
+
         public int tovarId { get; set; }
         public string articul { get; set; }
         public string name { get; set; }
