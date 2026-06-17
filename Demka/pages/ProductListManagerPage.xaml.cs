@@ -29,7 +29,7 @@ namespace Demka.pages
             tovar = new List<Tovar>(ConnectionString.dbContext.Tovar.ToList());
             supplier = new List<Supplier>(ConnectionString.dbContext.Supplier.ToList());
             currentuser = user;
-            supplier.Insert(0, new Supplier { supplierId = 1, name = "Все поставщики" }); 
+            supplier.Insert(0, new Supplier { supplierId = -1, name = "Все поставщики" }); 
             userBlock.Text = $"Менеджер: {user.name} {user.surname} {user.otchestvo}";
             this.DataContext = this;
         }
