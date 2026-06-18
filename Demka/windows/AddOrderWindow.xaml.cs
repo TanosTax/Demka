@@ -66,7 +66,7 @@ namespace Demka.windows
                 _parentPage?.RefreshProductList();
 
                 MessageBox.Show("успех");
-                this.Close(); // Закрываем окно после сохранения
+                Close(); // Закрываем окно после сохранения
             }
             else
                 MessageBox.Show("Заполните все поля");
